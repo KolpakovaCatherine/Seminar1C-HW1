@@ -6,7 +6,7 @@ a = -9 b = -3 -> max = -3*/
 
 Console.WriteLine("Введите первое число: ");
 int FirstDigit = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите первое число: ");
+Console.WriteLine("Введите второе число: ");
 int SecondDigit = Convert.ToInt32(Console.ReadLine());
 
 if (FirstDigit > SecondDigit)
